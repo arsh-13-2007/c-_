@@ -1,4 +1,5 @@
 #include<iostream>
+// array using function 
 using namespace std; 
 // array is work on pass by refrence 
 void array_function( int  *arr , int n ){

@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std; 
+// input,output in array   and basic function of array 
 int main (){
     // array works on continues memory allocation 
     int n ; 
